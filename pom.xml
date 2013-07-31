@@ -36,17 +36,20 @@
                         <version>1.2.1</version>
                         <executions>
                             <execution>
-                                <phase>test</phase>
+                                <phase>compile</phase>
                                 <goals>
-                                    <goal>java</goal>
+                                    <goal>exec</goal>
                                 </goals>
                                 <configuration>
-                                    <mainClass>org.springframework.batch.core.launch.support.CommandLineJobRunner</mainClass>
+                                    <executable>java</executable>
                                     <arguments>
+                                        <argument>-Dmyproperty=myvalue</argument>
+                                        <argument>-classpath</argument>
+                                        <classpath/>
+                                        <argument>org.springframework.batch.core.launch.support.CommandLineJobRunner</argument>
                                         <argument>launch-context.xml</argument>
                                         <argument>job1</argument>
                                     </arguments>
-                                    <cleanupDaemonThreads>false</cleanupDaemonThreads>
                                 </configuration>
                             </execution>
                         </executions>
