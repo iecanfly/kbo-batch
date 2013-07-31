@@ -20,7 +20,9 @@ public class ExampleItemWriter implements ItemWriter<Object> {
 	 * @see ItemWriter#write(java.util.List)
 	 */
 	public void write(List<? extends Object> data) throws Exception {
+
 		log.info(data);
+        throw new Exception();
 	}
 
 }

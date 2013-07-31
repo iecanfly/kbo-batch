@@ -8,6 +8,7 @@
     <file path="/launch-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375185963358" ignored="false" />
     <file path="/module-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375186267673" ignored="false" />
     <file path="/pom.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375258812403" ignored="false" />
+    <file path="/ExampleItemWriter.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375258954248" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,10 +87,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExampleItemWriter.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ExampleItemWriter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
+            <state line="24" column="30" selection-start="638" selection-end="638" vertical-scroll-proportion="0.4054054">
               <folding />
             </state>
           </provider>
@@ -122,10 +123,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="47" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.70128024">
+            <state line="43" column="47" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -172,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/launch-context.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemWriter.java" />
       </list>
     </option>
   </component>
@@ -775,13 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="13" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
@@ -805,7 +800,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="47" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.70128024">
+        <state line="43" column="47" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="30" selection-start="638" selection-end="638" vertical-scroll-proportion="0.4054054">
           <folding />
         </state>
       </provider>
