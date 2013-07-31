@@ -46,7 +46,7 @@
                                         <argument>launch-context.xml</argument>
                                         <argument>job1</argument>
                                     </arguments>
-
+                                    <cleanupDaemonThreads>false</cleanupDaemonThreads>
                                 </configuration>
                             </execution>
                         </executions>
