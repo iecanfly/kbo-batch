@@ -4,11 +4,16 @@
     <list default="true" id="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" name="Default" comment="" />
     <ignored path="KBOBatch.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/a.dummy" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375185042733" ignored="false" />
+    <file path="/a.dummy" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375346523770" ignored="false" />
     <file path="/launch-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375185963358" ignored="false" />
-    <file path="/module-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375345676975" ignored="false" />
+    <file path="/module-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375346096783" ignored="false" />
     <file path="/pom.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375345531381" ignored="false" />
     <file path="/ExampleItemWriter.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375258954248" ignored="false" />
+    <file path="/PlayerInfoItemWriter.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375348702972" ignored="false" />
+    <file path="/PlayerInfoItemReader.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375348641035" ignored="false" />
+    <file path="/KBOUrl.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375346466530" ignored="false" />
+    <file path="/fragment.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375347014275" ignored="false" />
+    <file path="/Dummy.txt" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375348192933" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,16 +86,61 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="164" column="80" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.0">
+            <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="module-context.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="module-context.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="34" selection-start="850" selection-end="865" vertical-scroll-proportion="0.37190083">
+            <state line="21" column="87" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExampleConfiguration.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="47" selection-start="1284" selection-end="1326" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerInfoItemWriter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="26" selection-start="728" selection-end="728" vertical-scroll-proportion="0.36273116">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerInfoItemReader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="25" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Selector.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/Selector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KBOUrl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/KBOUrl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="5" selection-start="294" selection-end="352" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,7 +160,14 @@
         <option value="$PROJECT_DIR$/src/main/resources/launch-context.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemWriter.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/com/iecanfly/kbo/player/ExampleItemWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/com/iecanfly/kbo/player/PlayerInfoItemWriter.java" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/com/iecanfly/kbo/util/KBOUrl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/com/iecanfly/kbo/player/PlayerInfoItemReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/Selector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemWriter.java" />
       </list>
     </option>
   </component>
@@ -133,7 +190,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="PackagesPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -343,13 +400,107 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KBOBatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KBOBatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KBOBatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-batch-simple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KBOBatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-batch-simple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.iecanfly.kbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KBOBatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-batch-simple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.iecanfly.kbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="player" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KBOBatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-batch-simple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.iecanfly.kbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="constants" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="File.Encoding" />
@@ -364,6 +515,14 @@
     <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/com/iecanfly/kbo/player" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.iecanfly.kbo" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.com.iecanfly.kbo in spring-batch-simple">
     <configuration default="false" name="ExampleItemReaderTests" type="JUnit" factoryName="JUnit" temporary="true">
@@ -553,6 +712,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -568,7 +728,6 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -639,39 +798,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="69" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.springBeans">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/iecanfly/kbo/ExampleItemReaderTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/iecanfly/kbo/ExampleItemWriterTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/iecanfly/kbo/ExampleJobConfigurationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/2.1.7.RELEASE/spring-batch-core-2.1.7.RELEASE.jar!/org/springframework/batch/core/schema-hsqldb.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state line="66" column="12" selection-start="2069" selection-end="2069" vertical-scroll-proportion="0.0" />
@@ -721,7 +847,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="80" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.0">
+        <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -733,6 +859,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="47" selection-start="1284" selection-end="1326" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="87" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/KBOUrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="5" selection-start="294" selection-end="352" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="30" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
@@ -740,9 +894,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="34" selection-start="850" selection-end="865" vertical-scroll-proportion="0.37190083">
+        <state line="23" column="25" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="26" selection-start="728" selection-end="728" vertical-scroll-proportion="0.36273116">
           <folding />
         </state>
       </provider>
