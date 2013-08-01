@@ -83,10 +83,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="launch-context.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="59" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.0">
+            <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.81934565">
               <folding />
             </state>
           </provider>
@@ -95,7 +104,7 @@
       <file leaf-file-name="module-context.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="87" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0">
+            <state line="19" column="40" selection-start="887" selection-end="903" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,11 +119,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerInfoItemWriter.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PlayerInfoItemWriter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="26" selection-start="728" selection-end="728" vertical-scroll-proportion="0.36273116">
-              <folding />
+            <state line="14" column="24" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -157,7 +168,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.project" />
-        <option value="$PROJECT_DIR$/src/main/resources/launch-context.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemWriter.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/com/iecanfly/kbo/player/ExampleItemWriter.java" />
@@ -168,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/Selector.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/launch-context.xml" />
       </list>
     </option>
   </component>
@@ -190,7 +201,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -400,36 +411,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KBOBatch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KBOBatch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kbo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kbo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -443,6 +424,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="spring-batch-simple" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KBOBatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-batch-simple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF.spring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -845,30 +840,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="59" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.35123968">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="47" selection-start="1284" selection-end="1326" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="87" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -903,7 +877,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="26" selection-start="728" selection-end="728" vertical-scroll-proportion="0.36273116">
+        <state line="14" column="24" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="40" selection-start="887" selection-end="903" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="59" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.81934565">
           <folding />
         </state>
       </provider>
