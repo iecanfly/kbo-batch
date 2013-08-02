@@ -86,7 +86,7 @@
       <file leaf-file-name="launch-context.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="59" selection-start="934" selection-end="934" vertical-scroll-proportion="0.46153846">
+            <state line="14" column="54" selection-start="929" selection-end="929" vertical-scroll-proportion="0.46153846">
               <folding />
             </state>
           </provider>
@@ -980,7 +980,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="59" selection-start="934" selection-end="934" vertical-scroll-proportion="0.46153846">
+        <state line="14" column="54" selection-start="929" selection-end="929" vertical-scroll-proportion="0.46153846">
           <folding />
         </state>
       </provider>
