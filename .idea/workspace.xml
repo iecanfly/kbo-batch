@@ -5,9 +5,9 @@
     <ignored path="KBOBatch.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/a.dummy" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375408697184" ignored="false" />
-    <file path="/launch-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375412788829" ignored="false" />
+    <file path="/launch-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375413623827" ignored="false" />
     <file path="/module-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375412102352" ignored="false" />
-    <file path="/pom.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375345531381" ignored="false" />
+    <file path="/pom.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375413602285" ignored="false" />
     <file path="/ExampleItemWriter.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375258954248" ignored="false" />
     <file path="/PlayerInfoItemWriter.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375348702972" ignored="false" />
     <file path="/PlayerInfoItemReader.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375369614202" ignored="false" />
@@ -83,19 +83,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="launch-context.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="launch-context.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="54" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0">
+            <state line="14" column="58" selection-start="933" selection-end="933" vertical-scroll-proportion="0.46153846">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="14" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.62637365">
+            <state line="123" column="28" selection-start="3903" selection-end="3903" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -191,8 +191,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/KBOUrl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemWriter.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/launch-context.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/launch-context.xml" />
       </list>
     </option>
   </component>
@@ -964,6 +964,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="28" selection-start="3903" selection-end="3903" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="57" selection-start="680" selection-end="700" vertical-scroll-proportion="0.0">
@@ -973,14 +980,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="54" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="14" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.62637365">
+        <state line="14" column="58" selection-start="933" selection-end="933" vertical-scroll-proportion="0.46153846">
           <folding />
         </state>
       </provider>
