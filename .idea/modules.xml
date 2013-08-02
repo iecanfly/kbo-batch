@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KBOCommon/KBOCommon.iml" filepath="$PROJECT_DIR$/KBOCommon/KBOCommon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-batch-simple.iml" filepath="$PROJECT_DIR$/spring-batch-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KBOBatch.iml" filepath="$PROJECT_DIR$/KBOBatch.iml" />
     </modules>
   </component>
 </project>

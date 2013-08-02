@@ -22,6 +22,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="KBOBatch" />
+        <module name="KBOCommon" />
         <module name="spring-batch-simple" />
       </profile>
     </annotationProcessing>
