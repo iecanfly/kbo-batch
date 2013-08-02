@@ -5,8 +5,8 @@
     <ignored path="KBOBatch.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/a.dummy" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375408697184" ignored="false" />
-    <file path="/launch-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375403753827" ignored="false" />
-    <file path="/module-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375346096783" ignored="false" />
+    <file path="/launch-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375411967121" ignored="false" />
+    <file path="/module-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375411947855" ignored="false" />
     <file path="/pom.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375345531381" ignored="false" />
     <file path="/ExampleItemWriter.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375258954248" ignored="false" />
     <file path="/PlayerInfoItemWriter.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375348702972" ignored="false" />
@@ -83,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="launch-context.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="launch-context.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="58" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0">
+            <state line="14" column="83" selection-start="958" selection-end="958" vertical-scroll-proportion="0.46153846">
               <folding />
             </state>
           </provider>
@@ -101,10 +101,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="module-context.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="module-context.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="579" selection-end="579" vertical-scroll-proportion="0.32967034">
+            <state line="8" column="26" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".classpath" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.classpath">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="12" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,21 +139,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerInfoItemWriter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="24" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PlayerInfoItemReader.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="33" selection-start="8" selection-end="32" vertical-scroll-proportion="0.0">
+            <state line="13" column="32" selection-start="340" selection-end="360" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -191,8 +189,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/KBOUrl.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/launch-context.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/launch-context.xml" />
       </list>
     </option>
   </component>
@@ -215,7 +213,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -867,13 +865,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/2.1.7.RELEASE/spring-batch-core-2.1.7.RELEASE.jar!/org/springframework/batch/core/schema-postgresql.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="52" selection-start="534" selection-end="534" vertical-scroll-proportion="0.021337127">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/2.1.7.RELEASE/spring-batch-core-2.1.7.RELEASE.jar!/org/springframework/batch/core/schema-drop-postgresql.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -905,13 +896,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/Selector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="30" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -962,25 +946,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="12" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="30" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="33" selection-start="8" selection-end="32" vertical-scroll-proportion="0.0">
+        <state line="13" column="32" selection-start="340" selection-end="360" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="58" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0">
+        <state line="8" column="26" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="579" selection-end="579" vertical-scroll-proportion="0.32967034">
+        <state line="14" column="83" selection-start="958" selection-end="958" vertical-scroll-proportion="0.46153846">
           <folding />
         </state>
       </provider>
