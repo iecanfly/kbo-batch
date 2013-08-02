@@ -10,8 +10,8 @@
     <file path="/pom.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375345531381" ignored="false" />
     <file path="/ExampleItemWriter.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375258954248" ignored="false" />
     <file path="/PlayerInfoItemWriter.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375348702972" ignored="false" />
-    <file path="/PlayerInfoItemReader.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375348641035" ignored="false" />
-    <file path="/KBOUrl.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375346466530" ignored="false" />
+    <file path="/PlayerInfoItemReader.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375369614202" ignored="false" />
+    <file path="/KBOUrl.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375370914478" ignored="false" />
     <file path="/fragment.java" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375347014275" ignored="false" />
     <file path="/Dummy.txt" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375348192933" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -92,10 +92,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.81934565">
+            <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -105,7 +105,9 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="19" column="40" selection-start="887" selection-end="903" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1375346097000" expanded="true" signature="866:1133" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,10 +132,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerInfoItemReader.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PlayerInfoItemReader.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="25" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
+            <state line="31" column="23" selection-start="970" selection-end="970" vertical-scroll-proportion="0.49075392">
               <folding />
             </state>
           </provider>
@@ -151,7 +153,7 @@
       <file leaf-file-name="KBOUrl.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/KBOUrl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="294" selection-end="352" vertical-scroll-proportion="0.0">
+            <state line="13" column="24" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -176,9 +178,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/com/iecanfly/kbo/util/KBOUrl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/com/iecanfly/kbo/player/PlayerInfoItemReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/Selector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemWriter.java" />
         <option value="$PROJECT_DIR$/src/main/resources/launch-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/KBOUrl.java" />
       </list>
     </option>
   </component>
@@ -715,6 +718,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -723,7 +727,6 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -854,23 +857,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/KBOUrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="294" selection-end="352" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="30" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="25" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -887,7 +876,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="40" selection-start="887" selection-end="903" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1375346097000" expanded="true" signature="866:1133" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -900,7 +891,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.81934565">
+        <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/KBOUrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="24" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="23" selection-start="970" selection-end="970" vertical-scroll-proportion="0.49075392">
           <folding />
         </state>
       </provider>
