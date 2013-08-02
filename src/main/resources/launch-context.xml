@@ -12,7 +12,7 @@
 
 	<context:property-placeholder location="classpath:batch.properties" />
 
-	<context:component-scan base-package="com.iecanfly.kbo.*" />
+	<context:component-scan base-package="com.iecanfly.kbo" />
 
 	<jdbc:initialize-database data-source="dataSource">
 		<jdbc:script location="${batch.schema.script}" />

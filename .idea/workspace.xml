@@ -4,7 +4,7 @@
     <list default="true" id="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" name="Default" comment="" />
     <ignored path="KBOBatch.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/a.dummy" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375346523770" ignored="false" />
+    <file path="/a.dummy" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375408697184" ignored="false" />
     <file path="/launch-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375403753827" ignored="false" />
     <file path="/module-context.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375346096783" ignored="false" />
     <file path="/pom.xml" changelist="36dcf4be-e4a6-43b3-a2fe-91afd6f0396d" time="1375345531381" ignored="false" />
@@ -86,7 +86,7 @@
       <file leaf-file-name="launch-context.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="60" selection-start="935" selection-end="935" vertical-scroll-proportion="0.29871976">
+            <state line="14" column="58" selection-start="933" selection-end="933" vertical-scroll-proportion="0.46153846">
               <folding />
             </state>
           </provider>
@@ -95,7 +95,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.0">
+            <state line="155" column="64" selection-start="5433" selection-end="5433" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,11 +110,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ExampleConfiguration.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="47" selection-start="1284" selection-end="1326" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="41" column="30" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,10 +150,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Selector.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/Selector.java">
+      <file leaf-file-name="batch.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/batch.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0">
+            <state line="11" column="35" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -169,7 +180,6 @@
       <list>
         <option value="$PROJECT_DIR$/.project" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemWriter.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/com/iecanfly/kbo/player/ExampleItemWriter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/com/iecanfly/kbo/player/PlayerInfoItemWriter.java" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml" />
@@ -179,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemWriter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/player/PlayerInfoItemReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/KBOUrl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/launch-context.xml" />
       </list>
     </option>
@@ -782,7 +793,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6710875" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -854,11 +865,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/2.1.7.RELEASE/spring-batch-core-2.1.7.RELEASE.jar!/org/springframework/batch/core/schema-hsqldb.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="12" selection-start="2069" selection-end="2069" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/2.1.7.RELEASE/spring-batch-core-2.1.7.RELEASE.jar!/org/springframework/batch/core/schema-postgresql.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="52" selection-start="534" selection-end="534" vertical-scroll-proportion="0.021337127">
@@ -869,13 +875,6 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/batch/spring-batch-core/2.1.7.RELEASE/spring-batch-core-2.1.7.RELEASE.jar!/org/springframework/batch/core/schema-drop-postgresql.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/batch.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="35" selection-start="484" selection-end="484" vertical-scroll-proportion="0.22727273">
           <folding />
         </state>
       </provider>
@@ -897,13 +896,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleItemWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="26" selection-start="606" selection-end="606" vertical-scroll-proportion="0.36273116">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="47" selection-start="1284" selection-end="1326" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -931,23 +923,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="76" selection-start="6046" selection-end="6046" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/constants/KBOUrl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="24" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="40" selection-start="887" selection-end="903" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -959,9 +937,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="64" selection-start="5433" selection-end="5433" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/batch.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="35" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iecanfly/kbo/ExampleConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="30" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="40" selection-start="887" selection-end="903" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="60" selection-start="935" selection-end="935" vertical-scroll-proportion="0.29871976">
+        <state line="14" column="58" selection-start="933" selection-end="933" vertical-scroll-proportion="0.46153846">
           <folding />
         </state>
       </provider>
