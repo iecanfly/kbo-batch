@@ -83,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="launch-context.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="launch-context.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="58" selection-start="933" selection-end="933" vertical-scroll-proportion="0.46153846">
+            <state line="14" column="83" selection-start="933" selection-end="958" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -101,10 +101,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="module-context.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="module-context.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="32" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0">
+            <state line="13" column="57" selection-start="680" selection-end="700" vertical-scroll-proportion="0.42857143">
               <folding />
             </state>
           </provider>
@@ -969,16 +969,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="32" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0">
+        <state line="14" column="83" selection-start="933" selection-end="958" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/launch-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/module-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="58" selection-start="933" selection-end="933" vertical-scroll-proportion="0.46153846">
+        <state line="13" column="57" selection-start="680" selection-end="700" vertical-scroll-proportion="0.42857143">
           <folding />
         </state>
       </provider>

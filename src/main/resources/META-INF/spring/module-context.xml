@@ -11,7 +11,7 @@
     <batch:job id="PLAYER_INFO_JOB" >
 		<batch:step id="playerSearchStep">
 			<batch:tasklet transaction-manager="transactionManager" start-limit="100" >
-				<batch:chunk reader="reader" writer="writer" commit-interval="1" />
+				<batch:chunk reader="playerInfoItemReader" writer="playerInfoItemWriter" commit-interval="1" />
 			</batch:tasklet>
 		</batch:step>
 	</batch:job>
