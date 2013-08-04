@@ -28,8 +28,6 @@ public class PlayerInfoItemReader implements ItemReader<Element> {
             return playersIterator.next();
         }
 
-
-
         return null;
 	}
 

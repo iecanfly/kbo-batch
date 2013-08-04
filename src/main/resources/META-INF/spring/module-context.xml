@@ -6,7 +6,7 @@
 	http://www.springframework.org/schema/batch http://www.springframework.org/schema/batch/spring-batch-2.1.xsd
 	http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
 
-	<description>KBO Batch</description>
+	<description>Example job to get you started. It provides a skeleton for a typical batch application.</description>
  	
     <batch:job id="PLAYER_INFO_JOB" >
 		<batch:step id="playerSearchStep">
@@ -15,15 +15,5 @@
 			</batch:tasklet>
 		</batch:step>
 	</batch:job>
-
-    <bean id="playerInfoItemWriter" class="org.springframework.batch.item.database.HibernateItemWriter">
-        <property name="sessionFactory" ref="sessionFactory" />
-        <property name="dao" ref="playerDao" />
-    </bean>
-
-    <bean id="playerDao" class="com.iecanfly.kbo.dao.player.HibernatePlayerDao">
-        <property name="sessionFactory" ref="sessionFactory" />
-    </bean>
-
 
 </beans>
